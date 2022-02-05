@@ -2,6 +2,10 @@
 
 好耶，是[【幼女Code】](https://github.com/RimoChan/unvcode)的 Kotlin 版本！可以用他在 Android 上开发一些奇奇怪怪的东西？~~（比如 Xposed 模块）~~
 
+## 原理和效果
+
+参见原 repo，我才不会再说一遍的（
+
 ## 示例
 
 ```kotlin
