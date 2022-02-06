@@ -1,5 +1,10 @@
 fun main() {
-    val result = "Librian幼女娱乐中心开业了，注册即送色图！".unvcode()
-    println(result.first)
-    println(result.second)
+    val t1 = System.currentTimeMillis()
+    for (i in 0 until 23333) {
+        val result = "不许自慰！".unvcode()
+        println(result.first)
+        println(result.second)
+    }
+    val t2 = System.currentTimeMillis()
+    println(t2 - t1)
 }

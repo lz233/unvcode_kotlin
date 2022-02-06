@@ -1,9 +1,7 @@
 import java.awt.*
 import java.awt.image.BufferedImage
 import java.awt.image.DataBufferInt
-import java.io.File
 import java.text.Normalizer
-import javax.imageio.ImageIO
 
 object Unvcode {
     private val d = mutableMapOf<Char, MutableList<Char>>()
